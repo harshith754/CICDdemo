@@ -17,7 +17,7 @@ test("Should subtract two numbers", () => {
 
 // Test Case 3 (Multiplication)
 
-test("Should subtract two numbers", () => {
+test("Should multiply two numbers", () => {
   expect(multiply(25, 10)).toBe(250);
 });
 
