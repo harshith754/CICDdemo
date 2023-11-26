@@ -1,8 +1,8 @@
 /**
- * Subtraction
+ * Addition
  */
-function subtract(firstNum, secondNum) {
-  return firstNum - secondNum;
+ function subtract(firstNum, secondNum) {
+  return firstNum + secondNum;
 }
 
-module.exports = subtract;
+module.exports = subtract
